@@ -1,0 +1,27 @@
+<style>
+p{
+	background-color: #808080;
+	color:black;
+	border:2px solid black;
+	position:relative;
+}
+#div1{
+	position:absolute;
+	background-color: #FFB6C1;
+	color:black;
+	border:1px solid black;
+} 
+#div2{
+	position:absolute;
+	background-color: #CD5C5C;
+	color:black;
+	border:1px solid black;
+
+}
+#div3{
+position:absolute;
+	background-color: #F0E68C;
+	color:black;
+	border:1px solid black;
+}
+</style>
