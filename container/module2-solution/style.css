@@ -4,22 +4,35 @@ p{
 	color:black;
 	border:2px solid black;
 	position:relative;
+	box-sizing: border-box;
+	width:500px;
 }
+
 #div1{
+	float:left;
 	position:absolute;
+	top:0px;
+	right:0px;
 	background-color: #FFB6C1;
 	color:black;
 	border:1px solid black;
 } 
-#div2{
+#div2{ 
+	
+	float:left;
 	position:absolute;
+	top:0px;
+	right:0px;
 	background-color: #CD5C5C;
 	color:black;
 	border:1px solid black;
 
 }
 #div3{
-position:absolute;
+float:left;
+	position:absolute;
+	top:0px;
+	right:0px;
 	background-color: #F0E68C;
 	color:black;
 	border:1px solid black;
