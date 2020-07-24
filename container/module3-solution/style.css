@@ -1,0 +1,42 @@
+#header-nav{
+	color:black;
+	background-color: pink;
+	padding: 0px;
+	max-height: 200px;
+	width: 100%;
+} 
+.navbar-brand{
+	text-shadow: 2px; 
+	padding: 5px 5px;
+	float:left;
+}
+#nav-list{
+	margin-top: 10px;
+} 
+#nav-list a{
+	color:#951C49;
+	text-align: center;
+} 
+#nav-list a:hover {
+	background:#E7E7E7;
+} 
+.row{
+	width:100%;
+	text-align: center;
+	position:relative;
+	margin-top: 30px;
+}
+.row p{
+	font-size: 2em;
+	width:100%; 
+	background-color: red;
+	color: yellow;
+} 
+.row article{
+	width:100%;
+	border:1px black solid;
+}
+span h1{
+	text-align: center;
+	margin-bottom: 30px;
+}
