@@ -26,6 +26,5 @@ for (var name=0;name<names.length;name++) {
     byeSpeaker(names[name]);
   } else { 
     helloSpeaker(names[name]);
-    // helloSpeaker.xxxx
   }
 }
