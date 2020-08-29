@@ -22,7 +22,7 @@ for (var name=0;name<names.length;name++) {
   // 'j'. If the same, call byeSpeaker's 'speak' method with the current name
   // in the loop. Otherwise, call helloSpeaker's 'speak' method with the current
   // name in the loop.
-  if (firstLetter==j) {
+  if (firstLetter=='j') {
     byeSpeaker(names[name]);
   } else { 
     helloSpeaker(names[name]);
